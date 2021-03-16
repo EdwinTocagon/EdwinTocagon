@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web programming, Artificial intelligence
 - 🌱 I’m currently learning React, Python
 - 💞️ I’m looking to collaborate on Web page development
-- 📫 How to reach me :edwintocagon@outlook.com       etocagonp.gmail.com        0959882907
+- 📫 How to reach me :edwintocagon@outlook.com        0959882907
 
 <!---
 EdwinTocagon/EdwinTocagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
