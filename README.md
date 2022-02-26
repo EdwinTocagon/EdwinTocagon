@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwinTocagon
-- 👀 I’m interested in Web programming, Artificial intelligence
+- 👀 I’m interested in Web Programming, Artificial intelligence
 - 🌱 I’m currently learning React, Python
 - 💞️ I’m looking to collaborate on Web page development
 - 📫 How to reach me: edwin.tocagonp@gmail.com, +593 0959882907
